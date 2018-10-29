@@ -7,7 +7,7 @@ Due to the recent epidemic of West Nile Virus in the Windy City, the Department 
 
 The dataset, along with description, can be found here: [https://www.kaggle.com/c/predict-west-nile-virus/](https://www.kaggle.com/c/predict-west-nile-virus/).
 
-# Process
+## Process
 
 **GitHub Repo**
 
