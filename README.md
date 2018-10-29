@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 
 
 Due to the recent epidemic of West Nile Virus in the Windy City, the Department of Public Health set up a surveillance and control system. I am hoping it will let me learn something from the mosquito population as we collect data over time. Pesticides are a necessary evil in the fight for public health and safety, not to mention expensive! I need to derive an effective plan to deploy pesticides throughout the city!
